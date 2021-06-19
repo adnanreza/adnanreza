@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 
+
+I'm a full stack web developer with a demonstrated history of successfully implementing and maintaining web applications. I'm passionate about front-end engineering and enjoy developing user interfaces. I'm also an instructor with multiple years of teaching experience in Computer Science and Web Development.
+
+Skills: JavaScript, HTML5, CSS3, React, Redux, Node.js, Java, Python, SQL, RESTful APIs, Docker, AWS
 
 <!--
 **adnanreza/adnanreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
