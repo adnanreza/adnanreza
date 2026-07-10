@@ -1,20 +1,18 @@
-### Hi there 👋 
+Hi there 👋
 
-I'm a full stack web developer with a demonstrated history of successfully implementing and maintaining web applications. I'm passionate about front-end engineering and enjoy developing user interfaces. I'm also an instructor with multiple years of teaching experience in Computer Science and Web Development.
+**Full-stack web developer & CS instructor in Vancouver.**
 
-Skills: JavaScript, HTML5, CSS3, React, Redux, Node.js, Java, Python, SQL, RESTful APIs, Docker, AWS
+- 🧩 I design and build full-stack web applications across front-end, APIs, and databases
+- 🎓 Several years teaching CS and full-stack web dev, with projects modelled on real engineering workflows
 
-<!--
-**adnanreza/adnanreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**  
+[![](https://skillicons.dev/icons?i=js,ts,html,css,php,java,py)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+**Frameworks**  
+[![](https://skillicons.dev/icons?i=react,nextjs,nodejs,express)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data**  
+[![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,graphql)](https://skillicons.dev)
+
+**Tools**  
+[![](https://skillicons.dev/icons?i=cloudflare,netlify,vercel,docker)](https://skillicons.dev)
