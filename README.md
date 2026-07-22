@@ -1,9 +1,12 @@
-Hi there 👋
+# Adnan Reza
 
-Full-stack web developer and CS instructor in Vancouver. I build web applications across front-end, APIs, and databases, and I've taught CS and full-stack development for several years.
+Software engineer and CS instructor in Vancouver. I ship full-stack
+web apps end to end and teach web development at Langara College.
 
-**Languages & frameworks**  
-[![](https://skillicons.dev/icons?i=js,ts,html,css,php,java,py,react,nextjs,nodejs,express)](https://skillicons.dev)
+**Live:** [concertprep.app](https://concertprep.app) · [letustype.com](https://letustype.com) · [mobi-transit-explorer](https://mobi-transit-explorer.adnanreza.com)
 
-**Data & tools**  
-[![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,graphql,cloudflare,netlify,vercel,docker)](https://skillicons.dev)
+**Open source:** [github-contribution-svg](https://github.com/adnanreza/github-contribution-svg) — zero-dependency React contribution calendar component
+
+TypeScript · React · Next.js · Node · Postgres · Cloudflare Workers
+
+More at [adnanreza.com](https://www.adnanreza.com)
